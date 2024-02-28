@@ -14,13 +14,15 @@ Before running the application, make sure you have the following installed:
 
 1. Clone the repository to your local machine:
 
-2. Change into the project directory:
+   https://github.com/Chaitanya-Kute/Raspberry-Controlled-SCARA.git
+
+3. Change into the project directory:
 
     ```
     cd robot-controller-gui
     ```
 
-3. Install the required dependencies:
+4. Install the required dependencies:
 
     ```
     pip install tkinter
